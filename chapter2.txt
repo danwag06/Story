@@ -1,1 +1,1 @@
-This is chapter 2 and I am blah blah.
+This is chapter 2 and I am blah blah. Now I'm adding some stuff for the new branch (new-story-idea)
